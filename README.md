@@ -11,4 +11,17 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = NET
 
 ~~~
-![](IMG.3491.jepg)
+
+![](IMG_3491.jpeg)
+
+
+|Name  |Gender    |Age|
+|---------|---------|---|
+|Iyin     |Female   |22 |
+|Taiye    |Male     |34 | 
+|Eunice   |Female   |24 |
+|Elizabeth|Female   |20 |
+|Charity  |Female   | 28|
+|Adaku    |Female   | 33|
+|Segun    |Male     | 39|
+|Kemi     | Female  | 28|
